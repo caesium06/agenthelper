@@ -1,0 +1,1 @@
+Build EXE => python -m PyInstaller --onefile -w <path to python file>
